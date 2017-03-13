@@ -6,11 +6,11 @@ html {
     background-size: cover;
     background: #70bg32;
     background-repeat:no-repeat;
-    background: -webkit-linear-gradient( to left top, #A53A9D, #2E1167);
-    background: -moz-linear-gradient( to left top, #A53A9D, #2E1167);
-    background: -ms-linear-gradient( to left top, #A53A9D, #2E1167);
-    background: -o-linear-gradient( to left top, #A53A9D, #2E1167);
-    background: linear-gradient( to left top, #7022A8, #C52D93);
+    background: -webkit-linear-gradient( to left top, #a82222, #C52D93);
+    background: -moz-linear-gradient( to left top, #a82222, #C52D93);
+    background: -ms-linear-gradient( to left top, #a82222, #C52D93);
+    background: -o-linear-gradient( to left top, #a82222, #C52D93);
+    background: linear-gradient( to left top, #a82222, #C52D93);
 }
 
 /*    background: linear-gradient( to left top,#A53A9D , #2E1167);*/
