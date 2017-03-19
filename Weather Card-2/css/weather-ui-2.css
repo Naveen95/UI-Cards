@@ -1,0 +1,153 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Cinzel', serif;
+	font-family: 'Raleway', sans-serif;
+}
+
+.background-image{
+	background-image: url("../icons/bg-mage.jpg");
+	background-position: center;	
+	background-repeat: no-repeat;
+
+
+	  /*background-image: url('http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_527bf56961712_1.JPG');*/
+  background-size: cover;
+  display: block;
+  filter: blur(15px);
+  -webkit-filter: blur(15px);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  right: 0;
+  box-shadow: none;
+  transform: scale(1.06);
+}
+
+.padding-lr-zero{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.weather-card{
+	border-radius: 5px;
+	background-image: url("../icons/che-b.jpg");
+	  left: 0;
+  position: fixed;
+  right: 0;
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat: no-repeat;
+  margin-top: 10vh;
+  padding: 0px 20px;
+}
+
+
+
+.place-first{
+	font-size: 38px;
+	color: white;
+}
+
+.place-last{
+	font-size: 38px;
+	color: #1690cc;
+}
+
+
+.pin-img{
+	height: 50px;
+	float: right;
+	margin-right: 20px;
+}
+
+.place-name{
+	float: right;
+	margin-right: 25px;
+	font-size: 16px;
+	color: white;
+	margin-bottom: 0px;
+}
+
+.place-time{
+	float: right;
+	margin-right: 25px;
+	font-size: 14px;
+	color: white;
+}
+
+
+.weather{
+	text-align: left;
+	font-size: 14px;
+	color: white;
+}
+
+.card-place{
+	margin-bottom: 0px;
+	color: white;
+	font-size: 25px;
+}
+
+.weather-icon{
+	float: right;
+	height: 30px;
+}
+
+.place-temp{
+	font-size: 50px;
+	margin-top: 10px;
+	font-family: 'Exo 2', sans-serif;
+	color: white;
+}
+
+.place-date-time{
+	color: white;
+	font-size: 18px;
+}
+
+#row1{
+
+	margin-top: 20px;
+}
+
+#chennai,#bangalore,#delhi,#hyderabad{
+	margin-top: 60px;
+	margin-bottom: 100px;	
+}
+
+.card-div{
+
+
+	border: 1px solid rgba(255,255,255,.2);
+	border-radius: 4px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,.05);
+	box-shadow: -1px -1px 10px rgba(255,255,255,.3) inset, 2px 2px 20px rgba(53, 53, 53, 0.5);
+	padding : 15px;
+	
+}
+
+.card-div:hover{
+	
+	box-shadow: -1px -1px 10px rgba(255,255,255,.3) inset,
+		2px 2px 20px rgba(0,0,0,.5);
+	cursor: pointer;
+
+}
+
+.frost-bg{
+	box-shadow: -1px -1px 10px rgba(255,255,255,.3) inset, 2px 2px 20px rgba(53, 53, 53, 0.5);
+	margin-top: 10px;
+	background: rgba(255,255,255,.5);
+}
+
+.row-zero{
+
+}
+
+
+
+
+
